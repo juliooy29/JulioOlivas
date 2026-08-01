@@ -1,4 +1,4 @@
-# JulioOlivas
+# Proyecto de calculo de riesgo y rendimiento y optimizacion de portafolios
 Optimización de Portafolios (Mean-Variance)
 
 Analizador y optimizador de portafolios de inversión basado en la Teoría Moderna de Portafolios (Markowitz). El proyecto descarga precios históricos reales, calcula las métricas de riesgo y rendimiento de un portafolio, y encuentra las combinaciones óptimas de pesos según distintos objetivos.
